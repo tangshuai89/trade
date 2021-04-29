@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[4],{"i6+/":function(n,t,e){"use strict";e.r(t),e.d(t,"default",function(){return i});e("OYVh");var a=e("wgyj"),c=e.n(a),r=e("q1tI"),u=e.n(r);function i(){return u.a.createElement(c.a,{type:"404",backText:"\u8fd4\u56de\u9996\u9875"})}}}]);
